@@ -4,6 +4,7 @@ add in subRepo
 add in main
 added in main again
 added in main again again
+<<<<<<< HEAD
 added in main again again again
 added in sub 
 added in main again
@@ -14,3 +15,6 @@ added in new
 ==added in main==
 ===added in sub===
 ===added in sub2===
+=======
+added in newinremote branch
+>>>>>>> a0dfa4d5e163a5fcee17257131b4a9a06f15b18b
